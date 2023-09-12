@@ -1,0 +1,15 @@
+-- Iniciar repositório git
+
+git init
+
+-- Verificar status do repositório já criado
+
+git status
+
+-- Adiciona todos os arquivo modificados
+
+git add .
+
+-- adicionar um comentário referente ao conjunto de modificações realizada
+
+git commit -a -m 
